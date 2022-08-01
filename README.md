@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Masayuki</h1>
 
+- 🔭 software-engineer job applicant
+
 - 🌱 I’m currently learning **JavaScript, React, Node.js, python**
 
 - 📫 How to reach me **masayuki.shibata.dev@gmail.com**
-
-- 🔭 software-engineer job applicant
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
