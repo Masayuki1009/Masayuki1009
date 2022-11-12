@@ -1,12 +1,12 @@
 Hi 👋 My name is Masayuki Shibata
 =================================
 
-Software Engineer job applicant
+Software Engineer
 -------------------------------
 
 * 🌍  I'm based in Tokyo
 * ✉️  You can contact me at [masayuki.shibata.dev@gmail.com](mailto:masayuki.shibata.dev@gmail.com)
-* 🧠  I'm learning Javascript, React, Node.js, python etc.
+* 🧠  I'm learning Javascript, React, Node.js, Java etc.
 
 ### Skills
 
